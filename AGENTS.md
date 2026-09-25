@@ -1,8 +1,8 @@
-# Listing files
+# Summary files
 
-When adding or editing a `listing.md`, follow `listing.template.md`.
+When adding or editing a `summary.md`, follow `summary.template.md`.
 
-Put the file at `lots/<county>/<ratio>-<acres>-<price>/listing.md`.
+Put the file at `lots/<county>/<ratio>-<acres>-<price>/summary.md`.
 
 The folder name is the list price per acre, rounded to the nearest dollar, divided by 1000, then the listing acres, then the list price with no commas or dollar sign. A $5,000 one-acre lot is `5-1-5000`. Drop a trailing `.0`. If that folder already exists, append `-2`, then `-3`, and so on.
 

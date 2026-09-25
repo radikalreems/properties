@@ -8,13 +8,14 @@ Lots are grouped by county:
 
 ```
 lots/<county>/county.md
+lots/<county>/<folder>/summary.md
 lots/<county>/<folder>/listing.md
 lots/<county>/<folder>/photos/
 ```
 
 `county.md` is how to look up parcels, zoning, taxes, and the other county offices. It is not about one lot.
 
-Each lot folder has a `listing.md` and, when pictures were saved, a `photos` folder.
+`summary.md` is the short notes for a lot. `listing.md` is the raw dump from the listing page, when one has been saved. Pictures are in `photos`.
 
 ## Folder names
 
@@ -24,9 +25,9 @@ The price per acre is rounded to the nearest dollar, then divided by 1000. Drop 
 
 Lower numbers at the start are cheaper per acre.
 
-## A listing
+## A summary
 
-`listing.md` follows `listing.template.md`:
+`summary.md` follows `summary.template.md`:
 
 1. Address
 2. Last checked
