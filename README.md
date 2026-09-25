@@ -30,10 +30,11 @@ Lower numbers at the start are cheaper per acre.
 `summary.md` follows `summary.template.md`:
 
 1. Address
-2. Last checked
-3. Links to the listing and the parcel map
-4. Details (price, acres, and so on)
-5. Parcel (one row per APN)
-6. Extra, when there is something else to say
+2. Where the listing came from
+3. Last checked
+4. Links to the listing and the parcel map
+5. Details (price, acres, and so on)
+6. Parcel (one row per APN)
+7. Extra, when there is something else to say
 
 Blank fields mean the source did not say. Assessed value and tax bill are only filled in when a source is named in the file.
