@@ -1,6 +1,6 @@
 # Parcels: Lots 137 & 138 Tree Ln
 
-County offices, parcel search, and the zoning code are in [../county.md](../county.md). This file is only these two lots. Pulled from the county’s public GIS on September 24, 2026. The parcel layer has no owner names. Assessed value, deed, and tax bill still have to come from the offices in the county file.
+County offices, parcel search, and the zoning code are in [../../county.md](../../county.md). This file is only these two lots. Pulled from the county’s public GIS on September 24, 2026. The parcel layer has no owner names. Assessed value, deed, and tax bill still have to come from the offices in the county file.
 
 The Zillow pin (41.953156, −122.52417) is about 6 miles west of the parcels. Use the centroids below.
 

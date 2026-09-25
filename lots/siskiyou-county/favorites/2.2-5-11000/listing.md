@@ -9,7 +9,7 @@ Captured from the live Zillow page on September 24, 2026. Listing data changes; 
 - Zillow: https://www.zillow.com/homedetails/Lots-137-138-Tree-Ln-Hornbrook-CA-96044/442109661_zpid/
 - Coldwell Banker mirror: https://www.coldwellbanker.com/ca/hornbrook/138-tree-lane/lid-P00800000Ghk7Oc0Wk1pUDJs9Jw6vpHqvr6bJLVj
 - Map pin (county GIS, not the Zillow coordinate): https://www.google.com/maps?q=41.95387,-122.41628
-- County records: [../county.md](../county.md)
+- County records: [../../county.md](../../county.md)
 - These two parcels: [parcels.md](parcels.md)
 
 ## Snapshot
@@ -73,7 +73,7 @@ Highlight tags: year-round access; peaceful rural setting.
 
 ## Parcel note
 
-County GIS details and zoning for these two lots are in [parcels.md](parcels.md). Where to pull the deed and tax bill is in [../county.md](../county.md). Short version: Zillow’s extra-parcel field `102340090` is APN **102-340-090** (2.5 assessor acres). The 2.7-acre parcel that shares its boundary is **102-340-100**. Both are zoned **R-R-B-2.5**. The Zillow map pin is about 6 miles west of the lots.
+County GIS details and zoning for these two lots are in [parcels.md](parcels.md). Where to pull the deed and tax bill is in [../../county.md](../../county.md). Short version: Zillow’s extra-parcel field `102340090` is APN **102-340-090** (2.5 assessor acres). The 2.7-acre parcel that shares its boundary is **102-340-100**. Both are zoned **R-R-B-2.5**. The Zillow map pin is about 6 miles west of the lots.
 
 A separate 420property.com page (updated September 13, 2025) listed them at **$13,000** and shortened the zone to “RRB.” That price is behind the current MLS price.
 
