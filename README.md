@@ -1,6 +1,6 @@
 # Properties
 
-Notes on vacant lots. Right now that is Hornbrook, in Siskiyou County.
+Notes on vacant lots. Right now that is Hornbrook, in Siskiyou County, and one lot in Klamath County, Oregon.
 
 ## Where things are
 
@@ -9,12 +9,15 @@ Lots are grouped by county:
 ```
 lots/<county>/county.md
 lots/<county>/favorites/favorites.md
+lots/<county>/klamath-river-country-estates/
 lots/<county>/<folder>/summary.md
 lots/<county>/<folder>/listing.md
 lots/<county>/<folder>/photos/
 ```
 
 `favorites/favorites.md` is the short list of lots to keep an eye on. Those lots live in that same `favorites` folder.
+
+`klamath-river-country-estates/` holds the lots in that subdivision. The listings describe a shared campground and association dues. The writeup is `klamath-river-country-estates.md` in that folder.
 
 `county.md` is how to look up parcels, zoning, taxes, and the other county offices. It is not about one lot.
 

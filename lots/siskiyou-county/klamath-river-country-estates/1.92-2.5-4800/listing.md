@@ -1,14 +1,14 @@
-# Shasta Ln Lot 164, Hornbrook, CA 96044
+# Quail Dr, Hornbrook, CA 96044
 
-Vacant land for sale in Iron Gate Lake Estates, Siskiyou County, listed at 2.5 acres.
+Vacant land for sale in Klamath River Country Est, Siskiyou County, listed at 2.5 acres.
 
 Captured from the live Realtor.com page on September 25, 2026. Listing data changes; confirm price, status, and parcel facts with the listing broker and the county before relying on them.
 
 ## Links
 
-- Realtor.com: https://www.realtor.com/realestateandhomes-detail/Shasta-Ln-Lot-164_Hornbrook_CA_96044_M94633-30194
+- Realtor.com: https://www.realtor.com/realestateandhomes-detail/Quail-Dr_Hornbrook_CA_96044_M95843-07665
 - Parcel map: https://experience.arcgis.com/experience/c9a297953b9745198a47ac596aacece6
-- County records: [../county.md](../county.md)
+- County records: [../county.md](../../county.md)
 - Short notes: [summary.md](summary.md)
 
 ## Snapshot
@@ -16,33 +16,33 @@ Captured from the live Realtor.com page on September 25, 2026. Listing data chan
 | Field | Value |
 | --- | --- |
 | Status | Active. Realtor.com status `for_sale`. |
-| List price | $7,500 |
+| List price | $4,800 |
 | Last price change amount | None on the page |
 | Property type | Land |
 | Subtype | Acreage |
 | Lot size | 2.5 acres (108,900 sqft) |
-| Dimensions | 212x75x50 (front) 354 x 260 x 561 |
-| Topography | Varied, Acreage |
-| Photos | 15 |
-| Realtor.com property id | 9463330194 |
-| MLS | SiskiyouCounty #20251194 |
-| List date | October 22, 2025 |
-| Days on MLS | 237 |
+| Dimensions | 74' x 390' x 405' x 466' |
+| Topography | Sloping, Acreage |
+| Photos | 9 |
+| Realtor.com property id | 9584307665 |
+| MLS | SiskiyouCounty #20251305 |
+| List date | December 11, 2025 |
+| Days on MLS | 188 |
 | Listing updated | August 20, 2026 |
 | County | Siskiyou |
-| Subdivision | Iron Gate Lake Estates |
-| Area | Iron Gate |
+| Subdivision | Klamath River Country Est |
+| Area | Hornbrook |
 | ZIP | 96044 |
 | Coordinates | Not published |
-| Highlight tags | View; Big lot |
+| Highlight tags | Boat dock; View; RV parking; Community swimming pool; Clubhouse |
 
-The list date and the days-on-MLS figure do not line up. From the list date to this capture is 337 days. Realtor.com's days-on-MLS field is 237. Both are recorded as the page showed them.
+The list date and the days-on-MLS figure do not line up. From the list date to this capture is 287 days. Realtor.com's days-on-MLS field is 188. Both are recorded as the page showed them.
 
 ©2026  Siskiyou County Association of REALTORS®. All rights reserved.
 
 ## Listing remarks
 
-A Lot With A View - Priced to sell, this 2.5 acre lot has electricity at the road, and is approximately a 15 min drive from town or to the I-5. Peace & quiet await you to build your dream home, or your cabin that serves as a getaway from the city life. Decisions, decisions.. but don't let this one pass you up.
+Build your dream home on the knoll and have a beautiful view! As a member of KRCE you will have access to the pool, club house, boat docks and many more amenities. Don't pass up this one up!
 
 ## Lot, views, and utilities
 
@@ -52,8 +52,8 @@ A Lot With A View - Priced to sell, this 2.5 acre lot has electricity at the roa
 | --- | --- |
 | Lot Description | Acreage |
 | Lot Size Acres | 2.5 |
-| Lot Size Dimensions | 212x75x50 (front) 354 x 260 x 561 |
-| Topography | Varied |
+| Lot Size Dimensions | 74' x 390' x 405' x 466' |
+| Topography | Sloping |
 | Lot Size Square Feet | 108900 |
 
 ### Exterior and Lot Features
@@ -66,7 +66,7 @@ A Lot With A View - Priced to sell, this 2.5 acre lot has electricity at the roa
 
 | Field | Value |
 | --- | --- |
-| View | Hills, Valley, TreesWoods |
+| View | Valley |
 
 ### Rental Info
 
@@ -80,38 +80,36 @@ A Lot With A View - Priced to sell, this 2.5 acre lot has electricity at the roa
 | --- | --- |
 | Source Listing Status | Active |
 | Source Property Type | Land |
-| Area | Iron Gate |
-| Source Neighborhood | Iron Gate Lake Estates |
+| Area | Hornbrook |
+| Source Neighborhood | Klamath River Country Est |
 | Postal City | Hornbrook |
-| Subdivision | Iron Gate Lake Estates |
+| Subdivision | Klamath River Country Est |
 | Property Subtype | Acreage |
-| Lot Number | 164 |
 
 ### Utilities
 
 | Field | Value |
 | --- | --- |
 | Sewer | PercTestRequired |
-| Utilities | CellularPhoneReception |
 | Utilities | ElectricityAvailable |
 | Water Source | WellNeeded |
 
 ## Parcel note
 
-County parcel work is in [parcel.md](parcel.md). Where to pull the deed and tax bill is in [../county.md](../county.md).
+County parcel work, when it has been done, is in [summary.md](summary.md). Where to pull the deed and tax bill is in [../county.md](../../county.md).
 
 ## Listing broker
 
 | Field | Value |
 | --- | --- |
-| Listing agent | Sandra Haugen |
-| Phone | 530-859-2907 (Mobile); 530-938-0200 (Office) |
-| Email | dnshaugen@hotmail.com |
-| License | 01786855 |
-| Broker | Elite Real Estate Group -  Broker |
-| Office | Elite Real Estate Group |
-| Office phone | 530-938-0200 |
-| Source line | SiskiyouCounty, MLS #20251194 |
+| Listing agent | Lenita Ramos |
+| Phone | 530-340-8467 (Mobile); 530-643-8101 (Office) |
+| Email | lenita@sunshinerealty530.com |
+| License | 02010602 |
+| Broker | Lenita Ramos |
+| Office | Sunshine Realty |
+| Office phone | 530-340-8467 |
+| Source line | SiskiyouCounty, MLS #20251305 |
 
 ## Price history
 
